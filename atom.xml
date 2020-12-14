@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dcdcabc123.github.io</id>
     <title>DC网课资源分享</title>
-    <updated>2020-12-14T05:36:55.305Z</updated>
+    <updated>2020-12-14T05:39:20.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dcdcabc123.github.io"/>
     <link rel="self" href="https://dcdcabc123.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://dcdcabc123.github.io/images/avatar.png</logo>
     <icon>https://dcdcabc123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DC网课资源分享</rights>
+    <entry>
+        <title type="html"><![CDATA[【Windows】网课视频及短视频下载工具【11月22日更新】]]></title>
+        <id>https://dcdcabc123.github.io/post/windows-wang-ke-shi-pin-ji-duan-shi-pin-xia-zai-gong-ju-11-yue-22-ri-geng-xin/</id>
+        <link href="https://dcdcabc123.github.io/post/windows-wang-ke-shi-pin-ji-duan-shi-pin-xia-zai-gong-ju-11-yue-22-ri-geng-xin/">
+        </link>
+        <updated>2020-12-14T05:37:22.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dcdcabc123.github.io/post-images/1607924350271.jpg" alt="" loading="lazy"></figure>
+<p>此软件虽然不用设置cookie，但是需要配置运行环境，请耐心阅读<br>
+1.Chrome浏览器<br>
+备注：如果你的电脑已经安装了Chrome浏览器，那么你可以跳过第一步了<br>
+1）双击目录里的83.0.4103.61_chrome_installer.exe进行安装，安装目录随意，不建议C盘</p>
+<p>2.驱动浏览器<br>
+1）如果你是使用软件内的83.0.4103.61_chrome_installer.exe安装的Chrome浏览器，那么只要将chromedriver_win32.zip解压，并将得到的[size=21.3333px]chromedriver.exe[size=21.3333px]放到软件同目录即可<br>
+2）如果你是之前就安装好的Chrome浏览器，那么需要你需要找到Chrome浏览器的版本，并在http://npm.taobao.org/mirrors/chromedriver/上下载与你Chrome浏览器的版本最接近的一般版本，下载完成后解压出chromedriver.exe放到软件同目录</p>
+<p>https://www.lanzoux.com/b00z8zafe</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1-2 淘客社群新玩法课程]]></title>
         <id>https://dcdcabc123.github.io/post/tao-ke-she-qun-xin-wan-fa-pei-xun-ke-cheng/</id>
